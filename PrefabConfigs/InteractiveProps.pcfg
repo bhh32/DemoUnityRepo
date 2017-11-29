@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PrefabConfig>
+	<PrefabTags>
+	</PrefabTags>
+	<PrefabCategories>
+		<Category>
+			<Name>Default</Name>
+		</Category>
+		<Category>
+			<Name>Interactive Props</Name>
+			<Prefab>
+				<Name>Jump Pad</Name>
+				<Path>Assets/Prefabs/Jump Pad.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>One-Way Teleporter</Name>
+				<Path>Assets/Prefabs/One-Way Teleporter.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Two-Way Teleporter</Name>
+				<Path>Assets/Prefabs/Two-Way Teleporter.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Turret</Name>
+				<Path>Assets/Prefabs/Turret.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+			<Prefab>
+				<Name>Size Collision Wall</Name>
+				<Path>Assets/Prefabs/Size Collision Wall.prefab</Path>
+				<Offset_From_Grid_Surface>0</Offset_From_Grid_Surface>
+				<Offset_From_Object_Surface>0</Offset_From_Object_Surface>
+			</Prefab>
+		</Category>
+	</PrefabCategories>
+		<PrefabScrollViewLookAndFeel>
+			<NumPrefabsPerRow>6</NumPrefabsPerRow>
+			<PrefabPreviewScale>1</PrefabPreviewScale>
+			<PrefabScrollViewHeight>200</PrefabScrollViewHeight>
+			<ActivePrefabTint>0.639,0.909,1,1</ActivePrefabTint>
+			<ShowPrefabNames>False</ShowPrefabNames>
+			<PrefabNameLabelColor>0,0,0,1</PrefabNameLabelColor>
+		</PrefabScrollViewLookAndFeel>
+</PrefabConfig>
